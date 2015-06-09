@@ -36,7 +36,7 @@ html,
 
 
 .btn-lg {
-	padding: 30px 60px;
+	padding: 30px 50px;
 	border-radius: 8px;
 	font-size: larger;
 	font-weight: 700;
@@ -50,16 +50,18 @@ html,
 
 
 .btn-lg.btn-outline-inverse, .btn-lg.outline {
-	padding: 30px 60px;
+	padding: 30px 50px;
 	border-radius: 8px;
-	font-weight: larger;
+	font-size: larger;
+	font-weight: 700;
 	letter-spacing: 2px;
 }
 
 
 .btn-lg.btn-outline-inverse, .btn-lg.outline{
-	padding: 30px 60px;
+	padding: 30px 50px;
 	font-weight: 700;
+	font-size: larger;
 	letter-spacing: 2px;
 	border-color: #feff7c;
 	color: #feff7c
@@ -71,6 +73,8 @@ html,
 	text-shadow:none;
 	background-color:#fff;
 	border-color:#fff;
+	font-weight: 700;
+	font-size: larger;
 	letter-spacing: 2px;
 }
                                                                                                                                                  
