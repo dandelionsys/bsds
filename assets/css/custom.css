@@ -34,12 +34,13 @@ html,
 ******************************************************/
 
 
-
 .btn-lg {
 	padding: 30px 50px;
 	border-radius: 8px;
+	border-width: 2px
+	font-size: 24px;
 	font-weight: 700;
-	font-size: larger;
+	line-height: 2.0;
 	letter-spacing: 2px;
 }
 
@@ -47,11 +48,13 @@ html,
 .btn.btn-outline.btn-lg {
 	padding: 30px 50px;
 	border-radius: 8px;
+	border-width: 2px
+	font-size: 24px;
 	font-weight: 700;
-	font-size: larger;
+	font-size: 24px;
+	line-height: 2.0;
 	letter-spacing: 2px;
 }
-
 
 
 .btn-lg.btn-outline-inverse, .btn-lg.outline{
@@ -71,4 +74,9 @@ html,
 	font-weight: 700;
 	letter-spacing: 2px;
 }
+
+
+
+
+
                                                                                                                                                  
